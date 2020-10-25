@@ -13,7 +13,7 @@ performance improvements were made and a few features were added as they were ne
 
 Releases and snapshots are deployed to this maven repository:
 ```
-http://invesdwin.de/repo/invesdwin-oss-remote
+http://invesdwin.de/repo/invesdwin-oss-remote/
 ```
 
 Dependency declaration:
