@@ -103,7 +103,7 @@
 	</pluginRepositories>
 
 	<scm>
-		<url>https://github.com/subes/invesdwin-norva</url>
+		<url>https://github.com/subes/jdeoptim</url>
 		<connection>scm:git:https://github.com/subes/jdeoptim.git</connection>
 		<tag>HEAD</tag>
 	</scm>
